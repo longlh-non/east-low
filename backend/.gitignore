@@ -1,0 +1,7 @@
+*.local
+dist
+dist-ssr
+node_modules
+.idea/
+*.log
+package-lock.json
